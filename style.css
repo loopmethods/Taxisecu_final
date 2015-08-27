@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'open_sansregular';
+    font-family: 'texgyrepagella-regular';
     src: url('font/OpenSans-Regular-webfont.eot');
     src: url('font/OpenSans-Regular-webfont.eot?#iefix') format('embedded-opentype'),
          url('font/OpenSans-Regular-webfont.woff2') format('woff2'),
@@ -37,6 +37,7 @@ z-index:999;
 	text-align:center;
 	width:100%;
 	font-family:"Palatino Linotype";
+
 	
 	
 	
@@ -72,7 +73,7 @@ z-index:999;
 	color: #FFF;
 	font-size:15px;
 	width:100%;
-	font-family:"Open Sans";
+	font-family:"Palatino Linotype";
 	line-height:22px;
 	text-align:justify;
 	
@@ -81,7 +82,7 @@ z-index:999;
 {
 	color: #000000;
 	width:99%;
-	background-color:#FFCC00;
+	background-color:#82c216;
 	font-size:18px;
 	border-radius:5px;
 	text-shadow:none;
@@ -210,7 +211,7 @@ clear:both;
 		padding:0px 0px 0px 0px;
 		float:left; font-weight:bold;
 		font-size:16px;
-		font-family:"Open Sans";
+		font-family:"Palatino Linotype";
 	
 }
 
@@ -247,7 +248,7 @@ clear:both;
 		padding:0px 0px 0px 0px;
 		float:left; font-weight:bold;
 		font-size:14px;
-		font-family:"Open Sans";
+		font-family:"Palatino Linotype";
 		
 
 }
@@ -346,7 +347,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fdfdfd', end
 		padding:0px 0px 0px 0px;
 		float:left; font-weight:bold;
 		font-size:16px;
-		font-family:"Open Sans";
+		font-family:"Palatino Linotype";
 		width:180px;
 		height:22px;
 		overflow:hidden;
@@ -398,7 +399,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fdfdfd', end
 		padding:0px 0px 0px 0px;
 		float:left; font-weight:bold;
 		font-size:16px;
-		font-family:"Open Sans";
+		font-family:"Palatino Linotype";
 	
 		
 
@@ -506,7 +507,7 @@ width:100%;
 		padding:0px 0px 0px 0px;
 		font-weight:bold;
 		font-size:14px;
-		font-family:"Open Sans";
+		font-family:"Palatino Linotype";
 		word-wrap:break-word;
 		
 	
@@ -548,7 +549,7 @@ border-top-color: #acacac;
 		padding:0px 0px 0px 0px;
 		font-weight:bold;
 		font-size:14px;
-		font-family:"Open Sans";
+		font-family:"Palatino Linotype";
 		word-wrap:break-word;
 
 		
@@ -573,7 +574,7 @@ border-top-color: #acacac;
 		padding:0px 0px 0px 0px;
 		float:left; font-weight:bold;
 		font-size:14px;
-		font-family:"Open Sans";
+		font-family:"Palatino Linotype";
 		word-wrap:break-word;
 		
 
@@ -1471,7 +1472,7 @@ height:50px !important;
 
 	.modalDialog {
 		position: fixed;
-		font-family: "Open Sans";
+		font-family:"Palatino Linotype";
 		top: 0;
 		right: 0;
 		bottom: 0;
@@ -1662,7 +1663,7 @@ height:50px !important;
 	  font-weight: normal;
 	  text-decoration: none;
 	  line-height: 1;
-	  font-family: 'Open Sans', sans-serif;
+	  font-family:"Palatino Linotype";
 	  font-size: 14px;
 	  position: relative;
 	}
@@ -1956,3 +1957,6 @@ height:50px !important;
 	
 	
 }
+
+
+
